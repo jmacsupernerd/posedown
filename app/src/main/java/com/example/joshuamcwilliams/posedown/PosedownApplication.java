@@ -2,9 +2,6 @@ package com.example.joshuamcwilliams.posedown;
 
 import android.app.Application;
 
-import com.example.joshuamcwilliams.posedown.database.Poses;
-
-import io.realm.Realm;
 
 /**
  * Created by joshuamcwilliams on 1/15/16.
